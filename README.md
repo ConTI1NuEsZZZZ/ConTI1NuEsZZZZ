@@ -1,16 +1,19 @@
-## Hi there 👋
+### 👋 Hi, I'm Mark — AI Automation Enthusiast & Prompt Engineer
 
-<!--
-**ConTI1NuEsZZZZ/ConTI1NuEsZZZZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building my way from zero to mastery in AI-powered automation, prompt engineering, and product development using Python + OpenAI.
 
-Here are some ideas to get you started:
+🔧 Currently learning:  
+- GPT-4 APIs, LangChain, Streamlit  
+- Python scripting for real-world automation  
+- Building micro-products with AI (bots, assistants, digital tools)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 My goals:  
+- Help businesses save time with GPT automation  
+- Build smart AI tools people actually want  
+- Earn my freedom by creating real value through code
+
+🧠 I believe in deep work, no shortcuts, and learning until it burns into my brain.
+
+🗂 Check out my public projects below, and feel free to connect if you're into AI or want to collaborate.
+
+🚀 Always building. Always improving.
